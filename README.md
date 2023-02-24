@@ -7,3 +7,5 @@ environments and correspondingly RL agents
 on different datasets and compared the results
 for different algorithms and different kinds
 of datasets
+
+Also used datasets with linear regression to compare results
